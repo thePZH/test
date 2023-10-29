@@ -1,5 +1,5 @@
-#include <iostream>
-// ÄãÊÇÎÒµÄÉñ
+ï»¿#include <iostream>
+// ä½ æ˜¯æˆ‘çš„ç¥
 void test()
 {
 	std::cout << "1" << std::endl;
